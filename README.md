@@ -1,2 +1,2 @@
 # finalproject-bigdata
-campus projects
+requirement: streamlit, pandas, altair, matplotlib, wordcloud
