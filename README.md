@@ -1,2 +1,6 @@
-# finalproject-bigdata
-requirement: streamlit, pandas, altair, matplotlib, wordcloud
+# requirements
+streamlit
+pandas
+altair
+matplotlib
+wordcloud
